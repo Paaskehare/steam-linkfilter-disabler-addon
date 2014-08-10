@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Steam Linkfilter Removal",
+    "version": "0.1",
+    "description": "Skips the linkfilter page when visiting URL's linked from the steam client",
+    "content_scripts": [
+        {
+            "matches": ["*://steamcommunity.com/linkfilter/*"],
+            "js": ["steam-linkfilter.js"]
+        }
+    ]
+}
