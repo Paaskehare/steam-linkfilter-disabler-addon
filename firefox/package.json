@@ -1,0 +1,10 @@
+{
+  "name": "steam-linkfilter-removal",
+  "title": "Steam Linkfilter Removal",
+  "id": "jid1-dojtg0t65ZF3tw",
+  "description": "Skips the linkfilter page when visiting URL's linked from the steam client",
+  "author": "Ole Bergmann",
+  "license": "BSD 1.0",
+  "version": "0.1",
+  "homepage": "https://github.com/Paaskehare/steam-linkfilter-disabler-addon"
+}
